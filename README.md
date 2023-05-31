@@ -3,7 +3,6 @@
 ### Multi-ESC50 Examples:
 ||Wan et al|W2c_vqgan|Our|
 |---|------|---|---|
-
 |[Audio1](https://drive.google.com/file/d/1jxko3d015uQux55mUCykwTBQETMTYbJQ/view?usp=share_link)|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/d25d8506-a3ce-486b-8374-4b417ef4da10" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/c7b690d9-6a24-4dd0-8794-1aa717fb57ff" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/86ada504-21f3-4b21-b5f7-730440ba8125" width=300 height=300>|
 |[Audio2](https://drive.google.com/file/d/1RUZrXb5fTPxIaPpxiVzkD-KQxw0u6Y5w/view?usp=share_link)|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/e00db317-6f1f-4281-a83e-7a0239ffe389" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/470897f1-5bdf-486f-9126-0f45f70a7cbb" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/ad99e5c4-1a20-484b-b256-3fc6c147641e" width=300 height=300>|
 |[Audio3](https://drive.google.com/file/d/1q3wGlgkjFXANLMkuU_0PSArw2IXksrnT/view?usp=share_link)|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/880e1e76-f5e3-4203-9b99-664c15334923" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/8c7aacaf-cf72-4f13-ad85-350f9143d84a" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/e7e46919-37f4-40f1-afaa-8288794d3916" width=300 height=300>|
