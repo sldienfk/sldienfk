@@ -1,16 +1,12 @@
-### Hi there 👋
+## Generating Realistic Images from In-the-wild Sounds
 
-<!--
-**sldienfk/sldienfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Multi-ESC50 Examples:
+||Wan et al|W2c_vqgan|Our|
+|---|------|---|---|
+|[Audio1](https://drive.google.com/file/d/1M_64ffwgW7pV95YCM2jIAEMqMIKuSFSK/view?usp=share_link)|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/2bcadde2-fc82-4681-a087-248cc475748b" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/7345d5df-2949-4cd8-8091-6fe6f2030592" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/9ca5081f-4b0f-48f3-ab37-a0d43d4448af" width=300 height=300>|
+|[Audio2](https://drive.google.com/file/d/1jxko3d015uQux55mUCykwTBQETMTYbJQ/view?usp=share_link)|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/4c3b2402-0a21-46a6-8ee7-f441eda10595" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/08c2df15-4d89-4abc-a292-4c3f3dfe47e8" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/65bd754b-345f-4424-bd13-8c1ac599d06b" width=300 height=300>|
+|[Audio3](https://drive.google.com/file/d/1RUZrXb5fTPxIaPpxiVzkD-KQxw0u6Y5w/view?usp=share_link)|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/6104d560-0ed3-4f1d-b4d2-47d69aaedb40" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/30b5e7f5-b9e2-440b-93d8-ac71e51d4f72" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/905ae1c9-8811-4d0e-9957-0744765c448d" width=300 height=300>|
+|[Audio4](https://drive.google.com/file/d/1q3wGlgkjFXANLMkuU_0PSArw2IXksrnT/view?usp=share_link)|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/6169aa81-7fb9-4ab1-9b81-e70ee8ae59a1" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/aaacec5c-d660-4305-91e8-f26501aba7ed" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/90589069-f7ba-4fe9-a3c1-1b42590f60e5" width=300 height=300>|
+|[Audio5](https://drive.google.com/file/d/1fKcfZmnJ1_wLpBsVHqICOpz30u1ug7zZ/view?usp=sharing)|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/33c68301-38cb-4e34-832a-d5a40f34707d" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/b147173b-5286-4f11-af1b-d4e43953ebb3" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/05028ac9-d30d-45db-b93a-3befc8f8eebd" width=300 height=300>|
+|[Audio6](https://drive.google.com/file/d/1T7J1f9s3WBPEAHTawUcEZwNux7E8SD0l/view?usp=share_link)|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/c9971ef3-c9a4-473a-a619-12c852761d43" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/467e4f58-228f-467c-b7e5-e6df61650633" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/108cbc78-fc38-4c7c-bf57-51340c8b0936" width=300 height=300>|
+|[Audio7](https://drive.google.com/file/d/1EPMNYVqVvRkhCIcOWRlwYo7qiQPn61Rc/view?usp=share_link)|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/38e48248-e001-4f11-a14f-2858a6f91c49" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/4f3c3086-95aa-409b-89a6-3616dde52196" width=300 height=300>|<img src="https://github.com/sldienfk/sldienfk/assets/135147415/e08bcccb-9e1e-4de6-9db7-196cd8b63ad4" width=300 height=300>|
